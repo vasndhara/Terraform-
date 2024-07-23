@@ -108,7 +108,7 @@ Create a Jenkins script for terraform to run a pipeline
 
 ![terraform-7](https://github.com/user-attachments/assets/3cb6a7a9-eb41-4a09-b66e-a6f17782d3b4)
 
-ExplanaƟon 
+Explanation 
 
 pipeline: Defines a Jenkins pipeline.
 
@@ -116,25 +116,28 @@ agent any: Runs the pipeline on any available agent.
 
 environment: Sets environment variables.
 
-AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY: Fetches AWS credenƟals stored in 
+AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY: Fetches AWS credentials stored in 
 
 Jenkins. 
 
 stage('Checkout'): Checks out the Terraform code from the specified Git repository.
 
-stage('Terraform Init'): IniƟalizes the Terraform configuraƟon.
+stage('Terraform Init'): Initializes the Terraform configuration.
 
-stage('Terraform Format'): Checks if the Terraform files are formaƩed correctly using 
+stage('Terraform Format'): Checks if the Terraform files are formatted correctly using 
 
 terraform fmt -check. 
 
-stage('Terraform Validate'): Validates the Terraform configuraƟon using terraform validate.
+stage('Terraform Validate'): Validates the Terraform configuration using terraform validate.
 
-stage('Terraform Plan'): Creates an execuƟon plan using terraform plan and saves it to a file 
+stage('Terraform Plan'): Creates an execution plan using terraform plan and saves it to a file 
 
-named ƞplan.
+named tfplan.
 
 stage('Terraform Apply'): Applies the changes required to reach the desired state of the 
+
+configuration using the previously created plan (tfplan).
+
 
 
 
