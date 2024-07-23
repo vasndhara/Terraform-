@@ -164,7 +164,7 @@ Select pipeline script from SCM in the definition
 
 SCM: Git 
 
-Repository URL: https://github.com/vasundhara/terraform_cicd.git
+Repository URL:git@github.com:vasndhara/terraform_cicd.git
 
 Credentials : give your Credential 
 
