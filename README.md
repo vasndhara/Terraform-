@@ -106,7 +106,6 @@ Create a Jenkins script for terraform to run a pipeline
 
 ![terraform-6](https://github.com/user-attachments/assets/6fd9b589-8f9b-4fb3-9b35-3210f5026b5f)
 
-![Uploading terraform-7.jpeg…]()
 
 
 
