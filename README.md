@@ -95,6 +95,7 @@ In variable.tf
 ![terraform-3](https://github.com/user-attachments/assets/9a467ce9-60a6-49f9-af0a-8fe8757a29f4)
 
 In output.tf
+
 ![terraform-4](https://github.com/user-attachments/assets/5260cd92-b24f-4557-a4df-91d1649297af)
 
 
