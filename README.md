@@ -102,6 +102,9 @@ Create a backend.tf file to store state file in s3 bucket
 
 ![terraform-5](https://github.com/user-attachments/assets/d41d2ee7-8c28-4d39-8609-23667bea2a89)
 
+Create a Jenkins script for terraform to run a pipeline 
+
+
 
 
 
