@@ -88,7 +88,7 @@ In Main.tf
 
 ![terraform-1](https://github.com/user-attachments/assets/5bf7d625-b9bd-4d9d-a9f4-8e98346adb36)
 
-
+![terraform-2](https://github.com/user-attachments/assets/3508539b-68f5-4c71-a37b-8fb062023c44)
 
 
 
