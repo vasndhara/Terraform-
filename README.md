@@ -142,7 +142,7 @@ After creating all files push them into git repository.
 
 git init 
 
-git remote add origin https://github.com/username/repository.git
+git remote add origin [https://github.com/username/repository.git](https://github.com/vasndhara)
 
 git add . # Add all fils 
 
