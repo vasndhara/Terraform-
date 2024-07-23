@@ -86,6 +86,14 @@ instance in public subnet by using terraform.
 
 In Main.tf
 
+![terraform-1](https://github.com/user-attachments/assets/5bf7d625-b9bd-4d9d-a9f4-8e98346adb36)
+
+
+
+
+
+   
+
 
 
 
