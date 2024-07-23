@@ -12,11 +12,11 @@ install Jenkins using this commands
 
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \ 
 
- hƩps://pkg.jenkins.io/debian/jenkins.io-2023.key 
+ https://pkg.jenkins.io/debian/jenkins.io-2023.key 
  
 echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" \ 
 
- hƩps://pkg.jenkins.io/debian binary/ | sudo tee \ 
+ https://pkg.jenkins.io/debian binary/ | sudo tee \ 
  
  /etc/apt/sources.list.d/jenkins.list > /dev/null 
  
@@ -55,7 +55,7 @@ cat /var/lib/jenkins/secrets/iniƟalAdminPassword
 
 Select install suggested plugins 
 
-Create an admin user by filling in the required informaƟon
+Create an admin user by filling in the required information
 
 Click save and finish. 
 
