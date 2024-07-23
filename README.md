@@ -87,3 +87,4 @@ instance in public subnet by using terraform.
 In Main.tf
 
 
+
