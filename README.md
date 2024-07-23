@@ -180,7 +180,7 @@ This setup will provision a VPC with public and private subnets, an internet gat
 
 tables, and an EC2 instance in the public subnet using Terraform. The Jenkins pipeline will 
 
-automate the Terraform workflow from iniƟalizaƟon to applying changes.
+automate the Terraform workflow from initialization to applying changes.
 
 
 
