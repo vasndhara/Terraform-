@@ -98,6 +98,9 @@ In output.tf
 
 ![terraform-4](https://github.com/user-attachments/assets/5260cd92-b24f-4557-a4df-91d1649297af)
 
+Create a backend.tf file to store state file in s3 bucket 
+
+
 
 
 
