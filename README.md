@@ -90,7 +90,12 @@ In Main.tf
 
 ![terraform-2](https://github.com/user-attachments/assets/3508539b-68f5-4c71-a37b-8fb062023c44)
 
+In variable.tf
+
 ![terraform-3](https://github.com/user-attachments/assets/9a467ce9-60a6-49f9-af0a-8fe8757a29f4)
+
+In output.tf
+
 
 
 
