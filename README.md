@@ -138,6 +138,23 @@ stage('Terraform Apply'): Applies the changes required to reach the desired stat
 
 configuration using the previously created plan (tfplan).
 
+After creating all files push them into git repository. 
+
+git init 
+
+git remote add origin https://github.com/username/repository.git
+
+git add . # Add all fils 
+
+git commit -m "Commit message" 
+
+git push -u origin master
+
+use this commands to add your local files into git repository 
+
+open the Jenkins dashboard and select the new item.
+
+
 
 
 
