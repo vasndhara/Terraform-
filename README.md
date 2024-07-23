@@ -1,10 +1,15 @@
 RUN A CICD PIPELINE FOR TERRAFORM TO INIT,FORMAT,VALIDATE,PLAN AND APPLY
 
 JENKINS INSTALLATION 
+
 First install Jenkins in a server 
+
 Create a ec2 instance and connect to that instance then switch to root user by using 
-(sudo su –) command. 
+
+(sudo su –) command.
+
 install Jenkins using this commands 
+
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \ 
  hƩps://pkg.jenkins.io/debian/jenkins.io-2023.key 
 echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" \ 
