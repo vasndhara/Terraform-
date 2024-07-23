@@ -38,8 +38,9 @@ systemctl restart Jenkins : to restart the Jenkins
 systemctl status Jenkins : to check the Jenkins status , whether its running or not 
 
 3. LOGIN INTO JENKINS DASHBOARD
-4. 
-To access Jenkins. We need to allow inbound traffic on PORT 8080 in the AWS security
+   
+   
+4.To access Jenkins. We need to allow inbound traffic on PORT 8080 in the AWS security
 
 group. 
 Copy the public ip of the server and paste in the browser with port number 8080{Example : 
